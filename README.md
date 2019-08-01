@@ -12,7 +12,7 @@ text_manip : ^latest_version
 to your pubspec.yaml.
 
 ## Screenshot
-<img src="https://raw.githubusercontent.com/gmetekorkmaz/images/master/text-manip/text-manip.jpg">
+<img src="https://raw.githubusercontent.com/gmetekorkmaz/images/master/text-manip/text-manip.jpg" width="300">
 
 ## Usage
 ### Basic
