@@ -1,0 +1,12 @@
+name: text_manip
+description: Flutter text_manip widget.
+version: 1.0.0
+author: G.Mete Korkmaz <g.metekorkmaz@gmail.com>
+homepage: https://github.com/gmetekorkmaz/TextManip
+
+environment:
+  sdk: ">=2.1.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
